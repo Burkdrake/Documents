@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color:black;
+}
+body{
+color: aquamarine;
+line-height:2;
+color:WHITE;
+}
+.chinekele{
+    color: aqua;
+    background-color:whitesmoke;
+    border:1px solid gray;
+    padding:35px 50px;
+    flex-wrap: initial;
+  
+}
+.grr{
+    text-align: right;
+}
